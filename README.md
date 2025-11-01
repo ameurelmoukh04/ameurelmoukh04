@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I am a Full-Stack JavaScript & PHP Developer<br>Currently seeking an internship to further enhance my skills and gain real-world experience.<br>I've built wonderful full-stack projects, leveraging modern technologies to create efficient and scalable web applications.<br><br>💡 Tech Stack: JavaScript (Node.js, Express, React), PHP (Laravel), MongoDB, MySQL, TailwindCSS, Docker, and more.<br>🔥 Passionate about building web apps, optimizing backend performance, and integrating AI into Web Apps.
+🚀 I am a Full-Stack JavaScript & PHP Developer, I've built wonderful full-stack projects, leveraging modern technologies to create efficient and scalable web applications.<br><br>💡 Tech Stack: JavaScript (Node.js, Express, React), PHP (Laravel), MongoDB, MySQL, TailwindCSS, Docker, and more.<br>🔥 Passionate about building web apps, optimizing backend performance, and integrating AI into Web Apps.
 
 
 ## 🌐 Socials:
